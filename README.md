@@ -13,8 +13,8 @@ Don't modify line LANGUAGE LANG_KOREAN, SUBLANG_KOREAN. Korean language is OK he
 # How to build
 
 You need ResourceHacker in order to build. It can be downloaded from http://www.angusj.com/resourcehacker/ . Download it and add to path or copy to bin folder.
-Run bin\addStrings.bat <source path> <destination path> where <source path> is a path where original 9.1.3 unpacked firmware resides(there should be folder upgrade), <destination path> is a path where to place newly built language dlls.
+Run bin\addStrings.bat 'source path' 'destination path' where 'source path' is a path where original 9.1.3 unpacked firmware resides(there should be folder upgrade), 'destination path' is a path where to place newly built language dlls.
 
 Для сборки вам понадобится программа ResourceHacker, которую можно скачать по ссылке http://www.angusj.com/resourcehacker/ . Скачайте ее и распакуйте, добавьте в путь или поместите в папку bin.
-Запустите bin\addStrings.bat <source path> <destination path> , тут <source path> папка, где находится распакованная оригинальная прошивка 9.1.3 (в этой папке должна быть папка upgrade), <destination path> папка куда нужно поместить вновь скомпилированные файлы локализации.
+Запустите bin\addStrings.bat 'source path' 'destination path' , тут 'source path' папка, где находится распакованная оригинальная прошивка 9.1.3 (в этой папке должна быть папка upgrade), 'destination path' папка куда нужно поместить вновь скомпилированные файлы локализации.
 
