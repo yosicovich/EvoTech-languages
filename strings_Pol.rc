@@ -1,7 +1,7 @@
 ﻿STRINGTABLE
 LANGUAGE LANG_KOREAN, SUBLANG_KOREAN
 {
-  4000,     "Głośnik"
+  4000,     "Osiągi"
   4001,     "km/h"
   4002,     "s"
   4003,     "{day}/{month}/{year}"
