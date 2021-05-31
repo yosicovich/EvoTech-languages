@@ -15,4 +15,5 @@ call addString.bat "%SOURCE_DIR%" "%TARGET_DIR%" "%RESOURCE_DIR%" Pol
 call addString.bat "%SOURCE_DIR%" "%TARGET_DIR%" "%RESOURCE_DIR%" Rom
 call addString.bat "%SOURCE_DIR%" "%TARGET_DIR%" "%RESOURCE_DIR%" Rus
 call addString.bat "%SOURCE_DIR%" "%TARGET_DIR%" "%RESOURCE_DIR%" Spa
+call addString.bat "%SOURCE_DIR%" "%TARGET_DIR%" "%RESOURCE_DIR%" Uka
 @goto :EOF
